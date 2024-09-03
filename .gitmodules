@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Piotr-97/FinacialSettlementBackend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Piotr-97/finset-fe.git
